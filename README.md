@@ -1,6 +1,9 @@
 # Simple Pāḷi Typing
 
 A simple, lightweight, aesthetic web-based tool designed to make typing Pāḷi diacritics easy and intuitive. It features Velthuis automatic character conversion, and one-click copying.
+
+<img width="690" height="581" alt="image" src="https://github.com/user-attachments/assets/5ffa3747-2d11-40a8-b39e-38056cf5b162" />
+
 ## 📖 About
 
 Type Pāḷi effortlessly using standard English keyboard combinations. The tool automatically converts specific key sequences (like `aa`) into Pāḷi characters (like `ā`). It features a calm, "parchment" style interface designed for comfortable reading and writing.
